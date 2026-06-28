@@ -16,6 +16,8 @@
 
 ~15 years designing and shipping software end to end — from full-stack web and enterprise Java to solutions architecture, distributed systems, and the infrastructure underneath them. I've led J2EE teams, architected database replication systems, taught compilers and data structures at university, run production network services, and built ecommerce platforms for clients across the US, Spain, and Latin America.
 
+A thread that runs through a lot of my work is **healthcare and public health**: building systems to collect and process endemic-disease statistics for a provincial public-health department, running network infrastructure for hospitals and clinics, and — today — open CPAP therapy tooling. Software that helps people stay healthy is the kind I care most about.
+
 These days I work close to the metal: **C++ microservices, ESP32/embedded firmware, and Angular** — and I'm a strong believer in **local-first, self-hosted systems** that don't depend on someone else's cloud.
 
 I run **[Amat Solutions](https://www.amatsolutions.com)** — software engineering & automation.
@@ -34,6 +36,15 @@ Embedded     ESP32 / ESP-IDF · BLE · MQTT auto-discovery
 Infra        Linux · systemd · KVM/Proxmox · Nagios · AWS · Git
 ML / AI      Ollama · embeddings · on-prem LLMs · YOLO object detection
 ```
+
+---
+
+### 📊 GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aamat09&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=667EEA&icon_color=667EEA" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamat09&layout=compact&langs_count=8&hide_border=true&title_color=667EEA" alt="Top languages" />
+</p>
 
 ---
 
