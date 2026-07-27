@@ -15,9 +15,9 @@
 
 ### About
 
-12+ years designing and shipping software end to end, from full-stack web and enterprise Java to C++ microservices, IoT firmware, ML pipelines, and the cloud infrastructure underneath. I've led J2EE teams, architected database replication systems, consulted for Fortune 500s, taught compilers and data structures at university, and run production network services across the US, Spain, and Latin America.
+17+ years designing and shipping software end to end, from full-stack web and enterprise Java to C++ microservices, IoT firmware, ML pipelines, and the cloud infrastructure underneath. I've led J2EE teams, architected database replication systems, consulted for Fortune 500s, taught compilers and data structures at university, and run production network services across the US, Spain, and Latin America.
 
-I run **[Amat Solutions LLC](https://www.amatsolutions.com)**, a software engineering consultancy. The throughline: *high-performance systems that are fast, secure, and built to last.* From microservices to Kafka to agentic AI, sensor to cloud.
+I run **[Smart Home Maestro](https://www.shmaestro.com)**, a software engineering consultancy. The throughline: *high-performance systems that are fast, secure, and built to last.* From microservices to Kafka to agentic AI, sensor to cloud.
 
 A thread that runs through a lot of my work is **healthcare and public health**: building systems to collect and process endemic-disease statistics for a provincial public-health department, running network infrastructure for hospitals and clinics, and today open CPAP therapy tooling. Software that helps people stay healthy is the kind I care most about.
 
