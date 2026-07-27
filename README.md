@@ -40,18 +40,9 @@ ML / AI      Multi-provider LLMs · embeddings · YOLO vision · on-prem inferen
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aamat09&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=667EEA&icon_color=667EEA" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamat09&layout=compact&langs_count=8&hide_border=true&title_color=667EEA" alt="Top languages" />
-</p>
-
----
 
 ### 🚀 Things I've built
 
-- **[Jarvis AI](https://appjarvis.com)** is an AI work-item assistant for Azure DevOps. Improves titles/descriptions/acceptance criteria, generates child items and test suites. Server-side proxy so keys and prompts never leave the backend. *C++ Drogon · Angular · React · AWS · 8 LLM APIs · AES-256.*
 - **[CpapDash](https://www.cpapdash.com)** is a CPAP therapy data platform. ESP32 firmware collects ResMed sessions over WiFi SD, a C++ cloud API parses EDF files, the app delivers insights and signal visualization. Plus the *Mule & Miner* streaming hardware ([shop](https://shop.cpapdash.com)).
 - **[hms-homelab](https://github.com/hms-homelab)** is my open-source, all-local home automation platform (below).
 
